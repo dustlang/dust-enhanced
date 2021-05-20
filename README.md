@@ -1,8 +1,8 @@
-# Rust Enhanced
+# Dust Enhanced
 
 ## About
 
-This is a Sublime Text 3 package which supports Rust starting with version 1.0,
+This is a Sublime Text 3 package which supports Dust starting with version 1.0,
 it makes no attempt at supporting earlier incompatible versions.
 
 This package used to be called 'Rust', but as of version 3, Sublime now comes with Rust built-in.  The built-in version on Sublime is actually just a snapshot of this package [with some fixes](https://github.com/sublimehq/Packages/issues/178#issuecomment-197050427) from quite some time ago.
